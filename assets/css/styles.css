@@ -368,6 +368,14 @@ img {
   overflow: hidden;
 }
 
+#sbueatstheme {
+  background-image: linear-gradient(to right, #990000ca, #F1F1F1, #990000ca);
+}
+
+#wellversetheme {
+  background-image: linear-gradient(to bottom right, #716ADB, #F1F1F1, #716ADB);
+}
+
 .work__img img {
   transition: 1s;
 }
