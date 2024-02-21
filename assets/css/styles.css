@@ -115,7 +115,7 @@ img {
 .bd-grid-sbueats-overview {
   max-width: 1024px;
   display: grid;
-  grid-template-columns: 60% 40%;
+  grid-template-columns: 60% 60%;
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
 }
@@ -179,6 +179,7 @@ img {
 
 .nav__logo {
   color: var(--second-color);
+  font-size: 1.2rem;
 }
 
 .nav__toggle {
@@ -605,7 +606,6 @@ img {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 2rem;
   }
-
   .digital__img img {
     width: 500px;
   }
