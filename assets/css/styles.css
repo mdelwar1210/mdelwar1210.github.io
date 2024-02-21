@@ -112,6 +112,14 @@ img {
   margin-right: var(--mb-2);
 }
 
+.bd-grid-sbueats-overview {
+  max-width: 1024px;
+  display: grid;
+  grid-template-columns: 60% 40%;
+  margin-left: var(--mb-2);
+  margin-right: var(--mb-2);
+}
+
 .l-header {
   width: 100%;
   position: fixed;
@@ -609,6 +617,10 @@ img {
     margin-right: auto;
   }
   .bd-grid-ux {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .bd-grid-sbueats-overview {
     margin-left: auto;
     margin-right: auto;
   }
